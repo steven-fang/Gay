@@ -1,2 +1,2 @@
-# Gay
-Are you gay?
+# Test
+Test?
